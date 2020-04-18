@@ -1,0 +1,13 @@
+This is demo file showcasing usage of various Git commands.
+
+Terminal commands executed by Vaibhav Singh are as follows:
+1) git config --global user.name
+2) git config --global user.email
+3) mkdir Git-Demo
+4) touch DemoFile.txt
+5) vi DemoFile.txt
+6) git init
+7) git add .
+8) git commit -m "initial commit"
+9) git remote add origin
+10) git push -u origin master
