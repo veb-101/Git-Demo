@@ -13,7 +13,7 @@ Terminal commands executed by Vaibhav Singh are as follows:
 10) git push -u origin master
 
 
-Terminal commands executed by Omkar Shetty are as follows:
+Terminal commands executed by Virag are as follows:
 1) git clone https://github.com/veb-101/Git-Demo.git --verbose
 2) cd Git-Demo
 3) git branch testBranch
@@ -23,3 +23,4 @@ Terminal commands executed by Omkar Shetty are as follows:
 7) git commit -m "updated DemoFile with new commands"
 8) git push
 9) git status
+10) git log
