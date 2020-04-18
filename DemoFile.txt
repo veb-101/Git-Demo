@@ -9,7 +9,7 @@ Terminal commands executed by Vaibhav Singh are as follows:
 6) git init
 7) git add .
 8) git commit -m "initial commit"
-9) git remote add origin
+9) git remote add origin https://github.com/veb-101/Git-Demo.git
 10) git push -u origin master
 
 
