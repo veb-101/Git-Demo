@@ -17,8 +17,9 @@ Terminal commands executed by Omkar Shetty are as follows:
 1) git clone https://github.com/veb-101/Git-Demo.git --verbose
 2) cd Git-Demo
 3) git branch testBranch
-4) git status
+4) git checkout testBranch
 5) vi DemoFile.txt
 6) git add .
 7) git commit -m "updated DemoFile with new commands"
 8) git push
+9) git status
